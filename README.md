@@ -30,3 +30,6 @@ __Melhoria 1__, _melhoria 2_
 2. Integração com cadastro
 3. Design Patterns
 
+##### Imagem local
+
+![Logo do Python](img/python.png.png)
