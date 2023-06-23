@@ -36,5 +36,5 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem externa
 
-![Logo do PHP](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-hgfaq&psig=AOvVaw3fHiwa64XUATdkU6AsaTZs&ust=1687644066540000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiBqpqy2v8CFQAAAAAdAAAAABAE)
+![Logo do PHP](https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo.png)
 
