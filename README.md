@@ -1,6 +1,6 @@
 # Site empresa X
 
-Vamos criar um site para empresa X e blablabla
+Vamos criar um **site** para *empresa* X e blablabla
 
 ## Funcionalidades:
 
