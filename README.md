@@ -21,3 +21,10 @@ __Melhoria 1__, _melhoria 2_
 * JavaScript
 * PHP
 * MySQL
+
+### Funcionalidades a desenvolver:
+
+1. Área de afiliados
+2. Integração com cadastro
+3. Design Patterns
+
