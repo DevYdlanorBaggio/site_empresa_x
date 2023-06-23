@@ -25,6 +25,8 @@ __Melhoria 1__, _melhoria 2_
 ### Funcionalidades a desenvolver:
 
 1. Área de afiliados
+    1. Login diferente para sua funcão
+    2. CSS diferente
 2. Integração com cadastro
 3. Design Patterns
 
