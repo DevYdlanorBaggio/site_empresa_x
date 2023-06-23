@@ -1,4 +1,8 @@
-# site_empresa_x
-Projeto de construção de uma site para uma determinada empresa, feito em PHP e MySQL
+# Site empresa X
 
-# Teste
+Vamos criar um site para empresa X e blablabla
+
+## Funcionalidades:
+
+Home com Banner, Quem Somos Nós, Contato, Entrar em contato, Nossos Projetos, Afiliados
+
