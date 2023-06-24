@@ -47,3 +47,11 @@ __Melhoria 1__, _melhoria 2_
 Contribuidor principal:  https://github.com/DevYdlanorBaggio
 
 [![Logo do JAVA](https://logospng.org/download/java/logo-java-512.png)](https://github.com/DevYdlanorBaggio)
+
+## Código da função soma
+
+'''JavaScript
+function soma(a, b) {
+    return a + b;
+}
+'''
