@@ -50,8 +50,8 @@ Contribuidor principal:  https://github.com/DevYdlanorBaggio
 
 ## Código da função soma
 
-"'javascript
+```javascript
 function soma(a, b) {
     return a + b;
 }
-'"
+```
