@@ -45,3 +45,5 @@ __Melhoria 1__, _melhoria 2_
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal:  https://github.com/DevYdlanorBaggio
+
+[![Logo do JAVA](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fjava-logo%2F168609&psig=AOvVaw3a1PRWmbPd9TKTnC2X7hkg&ust=1687703886776000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjbioeR3P8CFQAAAAAdAAAAABAE)](https://github.com/DevYdlanorBaggio)
