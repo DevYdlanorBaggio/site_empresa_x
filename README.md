@@ -55,3 +55,11 @@ function soma(a, b) {
     return a + b;
 }
 ```
+
+
+## Lista de tarefas a fazer:
+
+- [x] Área de Afiliado
+- [ ] Integração com cadastro
+- [ ] Design Patterns
+- [x] CSS do rodapé
